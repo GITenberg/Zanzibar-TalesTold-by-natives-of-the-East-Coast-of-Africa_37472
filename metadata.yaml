@@ -1,0 +1,36 @@
+_repo: Zanzibar-TalesTold-by-natives-of-the-East-Coast-of-Africa_37472
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Bobbett, Walter
+    gutenberg_agent_id: '43028'
+    url: http://www.gutenberg.org/2009/agents/43028
+  translator:
+    agent_name: Bateman, George W.
+    gutenberg_agent_id: '38858'
+    url: http://www.gutenberg.org/2009/agents/38858
+covers:
+- cover_type: archival
+  image_path: 37472-h/images/frontcover.jpg
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2011-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37472'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GR'
+- !lcsh 'Swahili-speaking peoples -- Folklore'
+- !lcsh 'Tales -- Tanzania'
+- !lcsh 'Tales -- Africa, East'
+tableOfContents: To my readers -- The monkey, the shark, and the washerman's donkey
+  -- The hare and the lion -- The lion, the hyena, and the rabbit -- The kites and
+  the crows -- Goso, the teacher -- The ape, the snake, and the lion -- Haamdaanee
+  -- Mkaaah Jeechonee, the boy hunter -- The magician and the sultan's son -- The
+  physician's son and the king of the snakes.
+title: 'Zanzibar Tales: Told by Natives of the East Coast of Africa'
+url: http://www.gutenberg.org/ebooks/37472

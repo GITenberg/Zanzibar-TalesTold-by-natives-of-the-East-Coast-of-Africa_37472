@@ -13,6 +13,8 @@ covers:
 - cover_type: archival
   image_path: 37472-h/images/frontcover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37472#Zanzibar-TalesTold-by-natives-of-the-East-Coast-of-Africa
 gutenberg_bookshelf: Travel
 gutenberg_issued: '2011-09-18'
 gutenberg_type: Text
